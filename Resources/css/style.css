@@ -1,0 +1,10 @@
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.blueTheme{
+    background-color: lightskyblue;
+    color: white;
+    font-weight: bold;
+}
